@@ -20,6 +20,7 @@ The website will also have a range of features to help local authorities reduce 
 
 * Local authorities can access the data and conclude which area has more food wastage.
 * Local authorities can use the data to create targeted campaigns to reduce food waste and garbage.
+* Git-hub : https://github.com/bhavypatel26/Binary-Bandits.git
 
 
 
